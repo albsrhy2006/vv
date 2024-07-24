@@ -1,0 +1,5 @@
+git clone https://github.com/albsrhy2006/hhh hhh
+cd hhh
+pip3 install --upgrade pip
+pip3 install -U -r requirements.txt
+python3 -m zelz
